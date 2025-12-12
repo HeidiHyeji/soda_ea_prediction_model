@@ -1,0 +1,17 @@
+numpy==1.26.4
+tensorflow==2.16.2
+pandas
+scikit-learn
+matplotlib
+jupyterlab
+scipy
+statsmodels
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+tableone
+
+streamlit
+joblib
+altair
