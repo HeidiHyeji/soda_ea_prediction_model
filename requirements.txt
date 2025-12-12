@@ -15,3 +15,9 @@ tableone
 streamlit
 joblib
 altair
+
+#streamlit 용
+xgboost
+lightgbm
+shap
+prophet
